@@ -24,6 +24,6 @@
 hs_err_pid*
 
 #compiled folders and IDEA Junk
-out/**
+**/out/**
 **/.idea
-**.iml
+**/.iml
